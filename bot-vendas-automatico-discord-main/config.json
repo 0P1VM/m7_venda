@@ -1,0 +1,8 @@
+{
+    "token": "seu_token_do_discord_aqui",
+    "prefix": ".",
+    "mongo_key": "sua_chave_do_mongodb_aqui",
+    "accessToken": "seu_access_token_do_mercadopago_aqui",
+    "canalCategoriaCarrinho": "ID_do_seu_canal_de_categoria_de_carrinho_aqui",
+    "canalLogs": "ID_do_seu_canal_de_logs_aqui"
+}
