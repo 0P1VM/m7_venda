@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "github.com/onlyvanilla",
+  "author": ".",
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/onlyvanilla/bot_vendas_automaticas_discord.git"
+    "url": "."
   }
 }
